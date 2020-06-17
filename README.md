@@ -6,14 +6,34 @@ Facebook Prophet is an open source tool used for time series forecasting. <br/>
 Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.<br/>
 Prophet works best with time series that have strong seasonal effects and several seasons of historical data. 
 
+<br/><br/><br/>
+### Prophet implements an additive regression model with four elements:
+<br/>
+1. A piecewise linear, Prophet automatically picks up change points in the data and identifies any change in trends.  
+<br/>
+2. A yearly seasonal component modeled using Fourier series.
+<br/>
+3. A weekly seasonal component.
+</br>
+4. A holiday list that can be manually provided.
+<br/>
+<br/>
+Reference: https://research.fb.com/prophet-forecasting-at-scale/
 
+
+
+
+
+
+
+
+<br/><br/><br/>
 In this project I've predicted the future price of Avacados in entire USA as well as region wise.<br/>
 For this I've used the avacado dataset which had data collected from 2015 to 2018. Following is the result of the model.
 
 
-<br/>
-<br/>
 
+<br/>
 ## Future prediction of price in entire USA.
 ![Screenshot (336)](https://user-images.githubusercontent.com/57986361/84913293-02864580-b0d8-11ea-9a01-2d7abbfe0db2.png)
 
@@ -23,7 +43,6 @@ The graph further tells the predicted price of the product. As we can see the fu
 ![Screenshot (337)](https://user-images.githubusercontent.com/57986361/84914908-ca800200-b0d9-11ea-86c9-2f1b445271b6.png)
 
 The above graph shows the trend of the product according to time. This clearly shows the decrease in trend which results in price drop of product as predicted by the model.
-
 
 <br/>
 <br/>
