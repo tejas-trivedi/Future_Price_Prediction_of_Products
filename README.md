@@ -19,4 +19,7 @@ For this I've used the avacado dataset which had data collected from 2015 to 201
 Here the black dots represent the price associated at particular time and the region containing these dots is our history of prices.
 The graph further tells the predicted price of the product. As we can see the future price in entire country will decrease in the next year. This prediction is very helpful as it tells the future demand for the product and helps in pre availability.
 
+![Screenshot (337)](https://user-images.githubusercontent.com/57986361/84914908-ca800200-b0d9-11ea-86c9-2f1b445271b6.png)
+
+The above graph shows the trend of the product according to time. This clearly shows the decrease in trend which results in price drop of product as predicted by the model.
 
