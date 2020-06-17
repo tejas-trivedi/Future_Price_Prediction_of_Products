@@ -34,6 +34,8 @@ For this I've used the avacado dataset which had data collected from 2015 to 201
 
 
 <br/>
+<br/>
+
 ## Future prediction of price in entire USA.
 ![Screenshot (336)](https://user-images.githubusercontent.com/57986361/84913293-02864580-b0d8-11ea-9a01-2d7abbfe0db2.png)
 
