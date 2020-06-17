@@ -11,7 +11,8 @@ In this project I've predicted the future price of Avacados in entire USA as wel
 For this I've used the avacado dataset which had data collected from 2015 to 2018. Following is the result of the model.
 
 
-
+<br/>
+<br/>
 
 ## Future prediction of price in entire USA.
 ![Screenshot (336)](https://user-images.githubusercontent.com/57986361/84913293-02864580-b0d8-11ea-9a01-2d7abbfe0db2.png)
@@ -22,4 +23,13 @@ The graph further tells the predicted price of the product. As we can see the fu
 ![Screenshot (337)](https://user-images.githubusercontent.com/57986361/84914908-ca800200-b0d9-11ea-86c9-2f1b445271b6.png)
 
 The above graph shows the trend of the product according to time. This clearly shows the decrease in trend which results in price drop of product as predicted by the model.
+
+
+<br/>
+<br/>
+
+## Future prediction of price (region specific)
+![Screenshot (338)](https://user-images.githubusercontent.com/57986361/84915476-79bcd900-b0da-11ea-9688-b1ee969c5d0b.png)
+Above is the price prediction of only Chicago. We can see that the price of the product increases in this case.
+
 
