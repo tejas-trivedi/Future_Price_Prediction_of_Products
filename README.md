@@ -30,6 +30,19 @@ The above graph shows the trend of the product according to time. This clearly s
 
 ## Future prediction of price (region specific)
 ![Screenshot (338)](https://user-images.githubusercontent.com/57986361/84915476-79bcd900-b0da-11ea-9688-b1ee969c5d0b.png)
-Above is the price prediction of only Chicago. We can see that the price of the product increases in this case.
+
+<br/>.Above is the price prediction of only Chicago. We can see that the price of the product increases in this case.
+
+![Screenshot (339)](https://user-images.githubusercontent.com/57986361/84915495-7e818d00-b0da-11ea-85df-f0aab8d8da03.png)
+<br/>This graph shows the trend of the product is increasing in upcoming time.
 
 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+This project includes the use of Facebook Prophet at its core. For further details on the mathematics behind this Prophet model visit:
+1. https://research.fb.com/prophet-forecasting-at-scale/
+2. https://facebook.github.io/prophet/docs/quick_start.html#python-api
